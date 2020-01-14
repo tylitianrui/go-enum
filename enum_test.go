@@ -1,7 +1,3 @@
-# go-enum
-
-
-```go
 package enum
 
 import "testing"
@@ -23,5 +19,3 @@ func TestVerify(t *testing.T) {
 		t.Fail()
 	}
 }
-
-```
